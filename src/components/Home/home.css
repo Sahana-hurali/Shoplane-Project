@@ -1,0 +1,21 @@
+.cards {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: stretch;
+}
+.cards-content {
+  min-height: 800px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-evenly;
+}
+.section {
+  padding-top: 40px;
+  margin-left: 2%;
+}
+.Clothing-Cards,
+.Accessory-Cards {
+  display: flex;
+  flex-wrap: wrap;
+}
