@@ -1,0 +1,48 @@
+.Product {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+.Image {
+  width: 35%;
+}
+#preview {
+  width: 100%;
+  margin-top: 50px;
+}
+.ProdDescription {
+  width: 50%;
+  margin: 3%;
+}
+#photos {
+  width: 15%;
+  height: 13%;
+  display: flex;
+  flex-wrap: wrap;
+  box-shadow: -2px 4px 15px -4px rgb(0 0 0 / 20%);
+}
+#productName {
+  font-weight: 300;
+  font-size: 44px;
+  letter-spacing: 1px;
+}
+#brand,
+#price,
+#descHead,
+#preview {
+  font-weight: 200;
+  font-size: 20px;
+  letter-spacing: 1px;
+}
+#priceValue {
+  color: rgb(40, 40, 165);
+  font-weight: bold;
+}
+.description > p {
+  font-size: 16px;
+  font-weight: 300;
+  color: #86939e;
+}
+.CircularProgress {
+  margin: 10% 50%;
+}
