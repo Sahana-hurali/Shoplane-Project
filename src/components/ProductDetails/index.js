@@ -9,6 +9,7 @@ const ProductsDetails = (props) => {
   const [product, setProduct] = useState({});
   const [loader, setloader] = useState(true);
   const { id } = useParams();
+  
   const {
     brand = "",
     description = "",
@@ -21,7 +22,6 @@ const ProductsDetails = (props) => {
     size = [],
   } = product;
 
-  
   useEffect(() => {
     axios(`${getProduct}${id}`).then((res) => {
       setProduct(res.data);
