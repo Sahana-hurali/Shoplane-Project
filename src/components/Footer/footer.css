@@ -1,0 +1,47 @@
+.footer {
+  background-color: black;
+  height: auto;
+  position: relative;
+  top: 200px;
+  font-size: 13px;
+}
+.footer .footer-content {
+  height: auto;
+  display: flex;
+  padding-left: 3rem;
+}
+.footer .footer-content .footer-section {
+  margin: 2% 4%;
+  min-width: fit-content;
+}
+.social > a {
+  padding: 8px;
+  text-decoration: none;
+  color: #f0f8ff;
+  font-size: 30px;
+}
+.footer-section > p {
+  margin: 2px 0;
+}
+.email {
+  margin: 2px 0;
+  padding-top: 2px;
+}
+.footer-section ul a,
+.footer-section p {
+  list-style-type: none;
+  color: #b8b8b8;
+  line-height: 18px;
+  letter-spacing: 1px;
+  width: 20rem;
+}
+.footer-section > h3 {
+  margin-left: 5%;
+  font-size: 16px;
+  color: #dcdcdc;
+  width: max-content;
+  padding: 0 11%;
+}
+.footer-section .title-content {
+  padding-right: 1rem;
+}
