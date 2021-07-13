@@ -1,0 +1,28 @@
+.cartDetails {
+  height: 50vh;
+  margin-left: 20px;
+}
+.totalPrice {
+  float: right;
+  margin-right: 3%;
+  padding: 2%;
+  border-radius: 10px;
+  box-shadow: 2px 1px 10px 0px;
+}
+.products {
+  box-shadow: 2px 1px 10px 0px;
+  display: flex;
+  width: 50%;
+  height: 10rem;
+  margin: 2%;
+}
+#cartImg {
+  width: 20%;
+  margin: 1%;
+}
+.cartDesc {
+  margin: 5%;
+}
+.img {
+  display: contents;
+}
