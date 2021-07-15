@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/Shoplane-Project/static/css/main.4ab65b7a.chunk.css",
+    "main.js": "/Shoplane-Project/static/js/main.1607ce43.chunk.js",
+    "main.js.map": "/Shoplane-Project/static/js/main.1607ce43.chunk.js.map",
+    "runtime-main.js": "/Shoplane-Project/static/js/runtime-main.c44ecd69.js",
+    "runtime-main.js.map": "/Shoplane-Project/static/js/runtime-main.c44ecd69.js.map",
+    "static/css/2.abcf8679.chunk.css": "/Shoplane-Project/static/css/2.abcf8679.chunk.css",
+    "static/js/2.1407ca34.chunk.js": "/Shoplane-Project/static/js/2.1407ca34.chunk.js",
+    "static/js/2.1407ca34.chunk.js.map": "/Shoplane-Project/static/js/2.1407ca34.chunk.js.map",
+    "static/js/3.0f28dbb8.chunk.js": "/Shoplane-Project/static/js/3.0f28dbb8.chunk.js",
+    "static/js/3.0f28dbb8.chunk.js.map": "/Shoplane-Project/static/js/3.0f28dbb8.chunk.js.map",
+    "index.html": "/Shoplane-Project/index.html",
+    "static/css/2.abcf8679.chunk.css.map": "/Shoplane-Project/static/css/2.abcf8679.chunk.css.map",
+    "static/css/main.4ab65b7a.chunk.css.map": "/Shoplane-Project/static/css/main.4ab65b7a.chunk.css.map",
+    "static/js/2.1407ca34.chunk.js.LICENSE.txt": "/Shoplane-Project/static/js/2.1407ca34.chunk.js.LICENSE.txt",
+    "static/media/slick-theme.css": "/Shoplane-Project/static/media/slick.c94f7671.ttf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c44ecd69.js",
+    "static/css/2.abcf8679.chunk.css",
+    "static/js/2.1407ca34.chunk.js",
+    "static/css/main.4ab65b7a.chunk.css",
+    "static/js/main.1607ce43.chunk.js"
+  ]
+}
